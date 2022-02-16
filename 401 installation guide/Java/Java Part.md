@@ -2,7 +2,7 @@
 <p align="center"><img  src="images/welcome1.png" alt="Java"></p>
 <img  src="images/line-down2.png" alt="Java">
 
-### Please make sure that you have already finished the prep installation part from <a href="https://github.com/omarXzain/LTUC-ASAC/blob/main/Computer%20Setup%20Guide/installation%20tutorial.md">Here</a> in order to continue with Java part. if you do, then you can move to the next step.
+### Please make sure that you have already finished the prep installation part from <a href="../../Computer Setup Guide/installation tutorial.md">Here</a> in order to continue with Java part. if you do, then you can move to the next step.
 
 ## Needed Tools:
 - you have to install the required tools. then, you'll do the configurations step by step. ( we will use Java Development Kit (JDK 11) in our course )
