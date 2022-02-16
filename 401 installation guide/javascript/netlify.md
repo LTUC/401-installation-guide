@@ -4,7 +4,7 @@ From now on, in this advanced course, we will use various cloud service provider
 In these steps, we will get a Netlify account created and install command-line tools.
 
 ## Netlify
-Create an account at [Netlify](netlify.com)
+Create an account at [Netlify](https://www.netlify.com/)
 
 Simply “Login with GitHub” and your account will be created and connected to GitHub
 Install the CLI tools, by running this command in your terminal:
