@@ -13,7 +13,7 @@
 
  #### install JDK 11 from this link ONLY if your are a `Linux` Or `MAC OS` user <a href="https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html">HERE</a>
 - If you are a Mac user download the file >>>	macOS x64 DMG Installer `jdk-11.0.13_osx-x64_bin.dmg`
-- If you are a windows user download the file >>>	Linux x64 RPM Package `jdk-11.0.13_linux-x64_bin.rpm`
+- If you are a Linux user download the file >>>	Linux x64 RPM Package `jdk-11.0.13_linux-x64_bin.rpm`
 #### Note: you need to create oracle account in order to download the file.
 
   <hr>
