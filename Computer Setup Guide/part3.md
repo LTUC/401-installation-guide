@@ -102,6 +102,7 @@ git config --list
 user.name=yourusername
 user.email=youremail@anymail.com
 core.editor=code --wait
+init.defaultbranch=main
 ```
 <h2 align="center"> All DONE 😀 </h2>
 
