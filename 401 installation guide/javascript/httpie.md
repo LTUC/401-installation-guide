@@ -2,7 +2,7 @@
 
 `httpie` Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP server.
 
-- In your Terminal, Run the following command to onstall `httpie`:
+- In your Terminal, Run the following command to install `httpie`:
 ```
 brew install httpie
 ```
