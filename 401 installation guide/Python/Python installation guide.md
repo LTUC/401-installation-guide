@@ -71,4 +71,4 @@ EOF
 <br>
 
 <hr>
-<a href="Python installation guide_2.md">MOVE TO PART2</a>
+<a href="Python installation guide_2.md">MOVE TO PART2 </a>
