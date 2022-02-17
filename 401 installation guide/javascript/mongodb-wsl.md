@@ -85,4 +85,5 @@ In case that you face any problem after you install MongoDb.
 
 <hr>
 
-##  [Go To Next Step =>](netlify.md)
+##  Finished
+
