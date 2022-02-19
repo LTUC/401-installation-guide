@@ -33,13 +33,13 @@ mv .profile .oldProfile.bak && curl -s https://raw.githubusercontent.com/omarXza
 
 ## Install Zsh ( Unix shell used as command interpreter )
 
-- WSL
+- copy this command and paste it in UBUNTU
 
   ```
   sudo apt-get install zsh
   ```
 
-- Mac
+- Mac users only
 
   ```
   brew install zsh
