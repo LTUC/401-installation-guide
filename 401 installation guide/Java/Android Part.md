@@ -12,7 +12,7 @@
 
 <h3 align="center"> install Android studio by clicking the icon below </h3>
 
-<p align="center"> <kbd><a href="https://developer.android.com/studio#downloads"> <img height="177px" width="177px" src="images/Android.png" alt="IntelliJ"></a></kbd>
+<p align="center"> <kbd><a href="https://developer.android.com/studio"> <img height="177px" width="177px" src="images/Android.png" alt="IntelliJ"></a></kbd>
 
 - run the downloaded file `android-studio-2021.1.1.21-windows.exe` and install it.
  
