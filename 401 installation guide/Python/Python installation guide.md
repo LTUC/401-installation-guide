@@ -54,7 +54,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 - Type `Yes` if asked if you want to make zsh the default shell.
 
-- Finally just copy-paste the text below into your terminal
+- Finally just copy-paste the text below into your UBUNTU terminal
 
 ```
 cat >> ~/.zshrc<<EOF
