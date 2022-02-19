@@ -4,7 +4,7 @@
 
 ### 1# OS specific commands
 
-- ### Mac
+- ### Mac users only
 
   ```
   xcode-select --install
@@ -14,7 +14,7 @@
   brew install openssl readline sqlite3 xz zlib
   ```
 
-- ### WSL/Linux
+- ### Windows/Linux users
 
   ```
   brew install bzip2 libffi libxml2 libxmlsec1 openssl readline sqlite xz zlib
