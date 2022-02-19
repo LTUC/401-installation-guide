@@ -2,7 +2,7 @@
 
 # Python Tools
 
-### 1# OS specific commands
+### 1) OS specific commands
 
 - ### Mac users only
 
@@ -40,7 +40,7 @@ pyenv install 3.9.5
 
 > the 3.9.5 is the Python interpreter version
 
-### 2# OS specific commands
+### 2) OS specific commands
 
 - ### Mac
 
