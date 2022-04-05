@@ -12,7 +12,7 @@
 
 <h2 align="center"> install Python by clicking the icon below </h2>
 
-<p align="center"> <kbd><a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe"> <img height="180px" width="180px" src="images/python.png" alt="UBUNTU"></a></kbd>
+<p align="center"> <kbd><a href="https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe"> <img height="180px" width="180px" src="images/python.png" alt="UBUNTU"></a></kbd>
   
   <h3 align="center"> also you need to install 2 extensions for Visual Studio Code: </h3>
   <p align="center"> <kbd><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python"> <img height="100px" width="100px" src="images/pythonEXT.png" alt="pythonEXT"></a></kbd> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp<kbd><a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"> <img height="100px" width="100px" src="images/editorEXT.png" alt="editor"></a></kbd> </p>
