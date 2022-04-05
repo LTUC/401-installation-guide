@@ -36,7 +36,6 @@
 * `Containers`
 
 
-
 - once you enabled the services click ok and then you are required to RESTART your machine in order to take effect.
 
 ### Note:
@@ -60,16 +59,23 @@ Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
  
 # important!!!
  
-### Now we need to run several commands using PowerShell 
+### Now we need to run several commands using PowerShell because sometimes the virtual machine service is DISABLED by default.
 - search for `PowerShell` from windows search bar and open `PowerShell.exe` and run it `as Adminstartor` then run the following commands:
+
+```
+Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
+```
+
+then run
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
-then
+then run
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 - this will enable Virtual Machine Platform for WSL, if it ask for a restart then restart your machine to continue
+
 ---------------------------------------------
 ### Now you need to install windows subsytem Linux ( used to run the Linux environment on windows )
 <h3 align="center">  click on the icon below to download it directly</h3>
@@ -148,7 +154,8 @@ curl -s https://raw.githubusercontent.com/omarXzain/LTUC-ASAC/main/.profile >> ~
 ```
 
 - Once it finishes, `COMPLETLY CLOSE UBUNTU` then re-open it again. 
-- Your terminal appearance should be changed to a different set of colors and cool features
+- Your Ubuntu appearance should be changed to a different set of colors and cool features
+&nbsp;&nbsp;<kbd>![wslLV](images/newubuntu.png)</kbd>
 
 <hr>
 
