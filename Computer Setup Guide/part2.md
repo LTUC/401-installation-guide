@@ -42,7 +42,7 @@ brew doctor
 ```
 
 - if you get another warning: 👇
-&nbsp; &nbsp; &nbsp; &nbsp; <kbd>![](images/tapped.png)</kbd>
+&nbsp; &nbsp; &nbsp; &nbsp; <kbd>![](images/NotTapped.png)</kbd>
 - then copy and run the following commands:
 
 ```
