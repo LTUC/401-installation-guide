@@ -41,9 +41,9 @@ then run the brew doctor again just to make sure
 brew doctor
 ```
 
-- if you get another warning: 👇
-&nbsp; &nbsp; &nbsp; &nbsp; <kbd>![](images/NotTapped.png)</kbd>
-- then copy and run the following commands:
+- if you get another warning: 👉
+<kbd>![](images/NotTapped.png)</kbd>
+- then copy and run the following command and you should be fine:
 
 ```
 rm -rf "/home/linuxbrew/.linuxbrew/Homebrew/Library/Taps/homebrew/homebrew-core"
