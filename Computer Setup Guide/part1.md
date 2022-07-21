@@ -29,7 +29,7 @@
 * `Virtual Machine Platform`
 * `Windows Hypervisor Platform`
 * `Windows Subsystem for Linux`
-* `Hyper-V`
+* `Hyper-V` (if exist)
 
 ### Not important ( just in case ):
 #### if you want to run ubuntu inside a virtual machine ( virtualbox, vmware, etc ) then you need to enable extra service:
