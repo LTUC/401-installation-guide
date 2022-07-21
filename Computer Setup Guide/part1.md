@@ -121,7 +121,7 @@ wsl --set-default-version 2
 ### Be Carefull about the next step:
 - it will ask you to enter a new username: for example "student"
 - please note that the password is hidden, so make sure you are setting your password correctly.
-- set your password twice to verify it: ( make sure to memorize it ) `hint: use 123456 or 0000`
+- set your password twice to verify it: ( make sure to memorize it ) `hint: use 1234 or 0000`
 <br>
 
 - open `Windows Terminal` and run this command ( this to check UBUNTU if it's running with WSL version 2 )
