@@ -1,6 +1,6 @@
 
 # Postgres Database Installation guide:
-- Postgres is an SQL (Relational) Database, we are going to use it during your course, please follow the installation steps carfully
+- Postgres is an SQL (Relational) Database, we are going to use it during your course, please follow the installation steps carfully.
 
 # How to install:
 - Open your terminal, and run this command to install the Postgres client and server
