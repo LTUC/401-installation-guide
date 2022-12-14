@@ -22,7 +22,7 @@
 is an integrated development environment written in Java for developing computer software
 <h3 align="center"> install IntelliJ by clicking the icon below </h3>
 
-<p align="center"> <kbd><a href="https://download-cdn.jetbrains.com/idea/ideaIC-2021.3.2.exe"> <img height="177px" width="177px" src="images/IntelliJ.png" alt="IntelliJ"></a></kbd>
+<p align="center"> <kbd><a href="https://download-cdn.jetbrains.com/idea/ideaIC-2022.3.exe"> <img height="177px" width="177px" src="images/IntelliJ.png" alt="IntelliJ"></a></kbd>
 
 - run the downloaded file `ideaIC-2021.3.2.exe` and don't forget to check the boxes like the image below:
   
