@@ -1,6 +1,11 @@
-## Welcome to the party
-- since you are here, I think you have a new laptop 💻 and you need to install the needed configurations ⚙️ to start solving your big problems <br>
-OR you formatted your laptop because it's slow as turtle 🐢 OR you may want to continue the advanced installation part, OK OK Ok you are in the right place :)
+<h1 align="center"> Welcome to the advanced installation guide </h1>
 
+<h2 align="center"> Please Choose Your Course Below </h2>
 
-<p align="center"> <kbd><a href="https://developer.android.com/studio#downloads"> <img " src="Computer Setup Guide/images/happy-installation-day.png" alt="IntelliJ"></a></kbd> </p>
+<hr>
+
+<p align="center">
+<a href="401 installation guide/javascript/advance-javascript.md"><kbd><img height="150px" width="150px" src="https://thecodeprogram.com/img/contents/2015/11/javascript-nedir-temel-orneklerle-genis-anlatim.png" alt=""> </kbd> &nbsp; &nbsp; &nbsp; &nbsp; <a href="401 installation guide/Python/Python installation guide.md"> <kbd> <img height="150px" width="150px" src="https://qph.fs.quoracdn.net/main-qimg-27d25d3fd343a3d2e4384c7f0eeaf785" alt=""></kbd>&nbsp; &nbsp; &nbsp; &nbsp;</a><a href="401 installation guide/Java/Java Part.md"> <kbd> <img height="150px" width="150px" src="https://cdn.wccftech.com/wp-content/uploads/2015/09/javaAndroid.jpg" alt=""></kbd></a> </p>
+
+<hr>
+<h2></h2>
